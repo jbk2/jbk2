@@ -1,5 +1,38 @@
 ## Hi there 👋
 
+## Hi there 👋
+
+My name is James, I'm a Makers Academy + trained web developer full stack, Ruby, Rails, JS & React developer.
+
+This is a second career for me having spent 20 years in various business and product management roles, muchh of it within the insurance industry. Having been a generalist in most of my career so far I was craving a more technical and intellectual challenge.
+
+Threads of maths, computer science, attention to detail, design, innovation, from programming in BASIC as a child to managing product teams in later career led me to software engineering. I trained as a full stack web developer through the Makers Academy in person immersive software engineering bootcamp in 2014. I've been coding ever since though have been in management roels professionally, until an opportunity arose to write code full time in 2023, since when I've been at the screen further learning Ruby, Rails, JS & React ready for full time professsional web development work.
+
+
+
+With a bias towards 
+I've always had an interest in computers, my strenghts leaned towards maths and detail
+
+schooling showed head generally worked 
+
+There's always been a theme throughout my life of 
+
+And with a consistant theme of computers, digital and innovation, from programming BASIC in the 80's 
+
+<!--
+**jbk2/jbk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 **jbk2/jbk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
