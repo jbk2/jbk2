@@ -17,15 +17,18 @@ Itching for more technical and intellectual challenges in my work, and with life
   <tbody>
     <tr>
       <td>
-        - An **MCP server** for the insurance industry  
-        - Learning **TypeScript** and **GraphQL**  
-        - Exploring **open-source** project contribution  
+        <ul style="margin:0; padding-left:1.1rem;">
+          <li style="margin:0;"><strong>AnMCP server</strong> for the insurance industry</li>
+          <li style="margin:0;">Learning <strong>TypeScript</strong> and <strong>GraphQL</strong></li>
+          <li style="margin:0;">Exploring <strong>open-source</strong> project contribution</li>
+        </ul>
       </td>
       <td>
-        - A **junior web developer** role — apply my skills, grow within a collaborative team, and build real-world products  
-        - **Freelance web developer** work — put skills to use and keep building my portfolio  
+        <ul style="margin:0; padding-left:1.1rem;">
+          <li style="margin:0;">A <strong>junior web developer</strong> role — apply my skills, grow within a collaborative team, and build real-world products</li>
+          <li style="margin:0;"><strong>Freelance web developer</strong> work — put skills to use and keep building my portfolio</li>
+        </ul>
       </td>
-    </tr>
   </tbody>
 </table>
 
