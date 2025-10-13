@@ -1,41 +1,23 @@
 
+<img src="./assets/images/ruby.svg" width="15" alt="Ruby logo"/> <img src="./assets/images/rails.svg" width="45" alt="Rails logo"/> <img src="./assets/images/hotwire-light.svg" width="50" alt="Hotwire logo"/> <img src="./assets/images/javascript.svg" width="20" alt="JS logo"/> <img src="./assets/images/react.svg" width="20" alt="React logo"/>
+
 ### Hi I'm James 👋,
 
-!['ruby logo'](./assets/images/ruby.svg) !['rails logo'](./assets/images/rails.svg) !['hotwire logo'](./assets/images/hotwire-dark.svg) !['js logo'](./assets/images/javascript.svg) !['react logo'](./assets/images/react.svg)
-Full-stack web developer - **Ruby**, **Rails**, **JS**, **React**.
+A full-stack web developer, focussing on **Ruby**, **Rails**, **JS**, and **React**</sup>.
 
-Itching for more technical and intellectual challenges in my work, and with lifelong interests in computing, design and maths, I retrained as a software engineer following a 20 year career in business and product management within the insurance and healthcare industries. I graduated Makers Academy’s on campus immersive full-stack software engineering bootcamp in 2014. Although my professional work remained in management, I kept coding throughout, and in 2023 I made the full-time move into professional software engineering.
+I trained in software engineering at [Makers Academy](https://makers.tech/software-engineering-bootcamp) and have been coding full-time since 2023. This is my second career after a successful 20 years in business and product management.
 
-<table style="width:100%; border:none;">
-  <colgroup>
-    <col style="width:40%;">
-    <col style="width:60%;">
-  </colgroup>
-  <thead>
-    <tr>
-      <th align="left">🧠 <strong>Currently Working On</strong></th>
-      <th align="left">👀 <strong>Currently Looking For</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <ul style="margin:0; padding-left:1.1rem;">
-          <li style="margin:0;"><strong>AnMCP server</strong> for the insurance industry</li>
-          <li style="margin:0;">Learning <strong>TypeScript</strong> and <strong>GraphQL</strong></li>
-          <li style="margin:0;">Exploring <strong>open-source</strong> project contribution</li>
-        </ul>
-      </td>
-      <td style="vertical-align:top;">
-        <ul style="margin:0; padding-left:1.1rem;">
-          <li style="margin:0;">A <strong>junior web developer</strong> role — apply my skills, grow within a collaborative team, and build real-world products</li>
-          <li style="margin:0;"><strong>Freelance web developer</strong> work — put skills to use and keep building my portfolio</li>
-        </ul>
-      </td>
-  </tbody>
-</table>
+Seeking more technical and intellectual challenge in my work, and with lifelong interest in computing, design, and maths, I retrained as a full stack web developer graduating Makers Academy’s on campus immersive full-stack software engineering bootcamp in 2014. Although my professional work remained in management, I kept coding throughout, and in 2023 I made the switch to full-time professional software engineering.
 
+### 🧠 Currently Working On
 
+- An **MCP server** for the insurance industry.
+- Learning **TypeScript** and **GraphQL**.
+
+### 👀 Currently Looking For
+
+- A **junior web developer** role — apply my skills, grow within a collaborative team, and build real-world products.
+- **Freelance web developer** work — put skills to use and keep building my portfolio.
 
 ### 🎮 Take a break with a few fun games I built
 - 🕵️‍♂️ [**Where’s Waldo** – a React + Rails API game](https://www.waldo.bibble.com)
