@@ -7,7 +7,7 @@ I trained at Makers Academy and have been coding full-time since 2022. This is m
 
 Itching for more technical and intellectual challenges in my work, and with lifelong interests in computing, design, and maths, I retrained as a software engineer graduating Makers Academy’s on campus immersive full-stack software engineering bootcamp in 2014. Although my professional work remained in management, I kept coding throughout, and in 2022 I made the full-time move into professional software engineering.
 
-<table>
+<table style="width:100%; border:none;">
   <colgroup>
     <col style="width:40%;">
     <col style="width:60%;">
