@@ -7,22 +7,32 @@ I trained at Makers Academy and have been coding full-time since 2022. This is m
 
 Itching for more technical and intellectual challenges in my work, and with lifelong interests in computing, design, and maths, I retrained as a software engineer graduating Makers Academy’s on campus immersive full-stack software engineering bootcamp in 2014. Although my professional work remained in management, I kept coding throughout, and in 2022 I made the full-time move into professional software engineering.
 
-
 <table>
-  <tr>
-    <td>
-      ### 🧠 I’m currently Working On
-      - An **MCP server** for insurance industry.
-      - Learning **TypeScript** and **GraphQL**.
-      - Exploring **open-source** project contribution.
-    </td>
-    <td>
-      ### 👀 I’m currently Looking For
-      - a **junior web developer** role - to apply my skills, grow within a collaborative engineering team, and work on building real-world software products.
-      - **freelance web developer** work - putting skills to work & building portfolio.
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">🧠 <strong>Currently Working On</strong></th>
+      <th align="left">👀 <strong>Currently Looking For</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+- An **MCP server** for the insurance industry  
+- Learning **TypeScript** and **GraphQL**  
+- Exploring **open-source** project contribution  
+
+      </td>
+      <td>
+
+- A **junior web developer** role — apply my skills, grow within a collaborative team, and build real-world products  
+- **Freelance web developer** work — put skills to use and keep building my portfolio  
+
+      </td>
+    </tr>
+  </tbody>
 </table>
+
 
 
 ### 🎮 Take a break with a few fun games I built
