@@ -1,11 +1,9 @@
 
 ### Hi I'm James 👋,
 
-A full-stack web developer<sup>**Ruby**, **Rails**, **JS**, and **React**</sup>.
+Full-stack web developer - **Ruby**, **Rails**, **JS**, **React**.
 
-I trained at Makers Academy and have been coding full-time since 2023. This is my second career after 20 years in business and product management within the insurance and healthcare industries.
-
-Itching for more technical and intellectual challenges in my work, and with lifelong interests in computing, design, and maths, I retrained as a software engineer graduating Makers Academy’s on campus immersive full-stack software engineering bootcamp in 2014. Although my professional work remained in management, I kept coding throughout, and in 2023 I made the full-time move into professional software engineering.
+Itching for more technical and intellectual challenges in my work, and with lifelong interests in computing, design and maths, I retrained as a software engineer following a 20 year career in business and product management within the insurance and healthcare industries. I graduated Makers Academy’s on campus immersive full-stack software engineering bootcamp in 2014. Although my professional work remained in management, I kept coding throughout, and in 2023 I made the full-time move into professional software engineering.
 
 <table style="width:100%; border:none;">
   <colgroup>
