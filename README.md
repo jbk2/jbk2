@@ -8,6 +8,10 @@ I trained at Makers Academy and have been coding full-time since 2022. This is m
 Itching for more technical and intellectual challenges in my work, and with lifelong interests in computing, design, and maths, I retrained as a software engineer graduating Makers Academy’s on campus immersive full-stack software engineering bootcamp in 2014. Although my professional work remained in management, I kept coding throughout, and in 2022 I made the full-time move into professional software engineering.
 
 <table>
+  <colgroup>
+    <col style="width:40%;">
+    <col style="width:60%;">
+  </colgroup>
   <thead>
     <tr>
       <th align="left">🧠 <strong>Currently Working On</strong></th>
@@ -23,7 +27,7 @@ Itching for more technical and intellectual challenges in my work, and with life
           <li style="margin:0;">Exploring <strong>open-source</strong> project contribution</li>
         </ul>
       </td>
-      <td>
+      <td style="vertical-align:top;">
         <ul style="margin:0; padding-left:1.1rem;">
           <li style="margin:0;">A <strong>junior web developer</strong> role — apply my skills, grow within a collaborative team, and build real-world products</li>
           <li style="margin:0;"><strong>Freelance web developer</strong> work — put skills to use and keep building my portfolio</li>
