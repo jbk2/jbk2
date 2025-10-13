@@ -1,48 +1,31 @@
-## Hi there 👋
 
-## Hi there 👋
+## Hi there 👋,
 
-My name is James, I'm a Makers Academy + trained web developer full stack, Ruby, Rails, JS & React developer.
+I'm James, a **full-stack web developer** with a focus on **Ruby**, **Rails**, **JS**, and **React**.
 
-This is a second career for me having spent 20 years in various business and product management roles, muchh of it within the insurance industry. Having been a generalist in most of my career so far I was craving a more technical and intellectual challenge.
+I trained at **Makers Academy** and have been coding full-time since 2022. This is my second career after 20 years in business and product management across the insurance and healthcare industries.
 
-Threads of maths, computer science, attention to detail, design, innovation, from programming in BASIC as a child to managing product teams in later career led me to software engineering. I trained as a full stack web developer through the Makers Academy in person immersive software engineering bootcamp in 2014. I've been coding ever since though have been in management roels professionally, until an opportunity arose to write code full time in 2023, since when I've been at the screen further learning Ruby, Rails, JS & React ready for full time professsional web development work.
+Seeking greater technical and intellectual challenge, and drawing on lifelong interests in computing, design, and maths, I completed Makers Academy’s immersive full-stack software engineering bootcamp in 2014. Although my professional roles were in management, I've kept coding throughout — and in 2022, I made a full-time move into professional software engineering.
 
+---
 
+### 🧠 I’m currently Working On
+- An **MCP server** for insurance industry.
+- Learning **TypeScript** and **GraphQL**.
+- Exploring some **open-source** project contribution.
 
-With a bias towards 
-I've always had an interest in computers, my strenghts leaned towards maths and detail
+---
 
-schooling showed head generally worked 
+### 🎮 Have fun - take a minute - play a game i built
+- 🕵️‍♂️ [**Where’s Waldo** – a React + Rails API game](https://www.waldo.bibble..com)  
+  A browser game built with a Rails backend and React frontend.  
+- 🚢 [**Battleships** – classic game in pure JavaScript](https://www.example.com)  
+  My take on the classic logic game, built entirely with vanilla JS.
 
-There's always been a theme throughout my life of 
+---
 
-And with a consistant theme of computers, digital and innovation, from programming BASIC in the 80's 
+### 👀 I’m Looking For
+- a **junior web developer** role - to apply my skills, grow within a collaborative engineering team, and work on building real-world software products.
+- **freelance web developer** work - putting my skills to work, and feeding the family!
 
-<!--
-**jbk2/jbk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-**jbk2/jbk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
