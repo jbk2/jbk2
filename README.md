@@ -1,5 +1,5 @@
 
-<img src="./assets/images/ruby.svg" width="15" alt="Ruby logo"/> <img src="./assets/images/rails.svg" width="45" alt="Rails logo"/> <img src="./assets/images/hotwire-light.svg" width="50" alt="Hotwire logo"/> <img src="./assets/images/javascript.svg" width="20" alt="JS logo"/> <img src="./assets/images/react.svg" width="20" alt="React logo"/> <img src="./assets/images/vite.svg" width="20" alt="Vite logo"/> <img src="./assets/images/bash-light.svg" width="20" alt="Bash logo"/> <img src="./assets/images/docker.svg" width="20" alt="Docker logo"/> <img src="./assets/images/linux.svg" width="20" alt="Linux logo"/>
+<img src="./assets/images/ruby.svg" width="15" alt="Ruby logo"/> <img src="./assets/images/rails.svg" width="45" alt="Rails logo"/> <img src="./assets/images/hotwire-light.svg" width="50" alt="Hotwire logo"/> <img src="./assets/images/javascript.svg" width="20" alt="JS logo"/> <img src="./assets/images/react.svg" width="20" alt="React logo"/> <img src="./assets/images/vite.svg" width="18" alt="Vite logo"/> <img src="./assets/images/bash-dark.svg" width="22" alt="Bash logo"/> <img src="./assets/images/docker.svg" width="60" alt="Docker logo"/>&nbsp;&nbsp;<img src="./assets/images/linux.svg" width="16" alt="Linux logo"/>
 
 ### Hi I'm James 👋,
 
