@@ -16,7 +16,7 @@ Itching for more technical and intellectual challenges in my work, and with life
   </thead>
   <tbody>
     <tr>
-      <td style="margin: none">
+      <td>
         - An **MCP server** for the insurance industry  
         - Learning **TypeScript** and **GraphQL**  
         - Exploring **open-source** project contribution  
