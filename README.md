@@ -19,6 +19,4 @@ Wanting more technical and intellectual challenge in my work, and with lifelong 
 ### 🎮 Take a break with a few fun games I built
 - 🕵️‍♂️ [**Where’s Waldo** – a React + Rails API game](https://www.waldo.bibble.com)
 - ♟️ [**Chess** – Chess implemented in pure Ruby, on the cmmd line](https://replit.com/@jbk1/Chess)
-- 🚢 [**Battleships** – classic game in pure JavaScript](https://www.example.com)
-
----
+- 🚢 [**Battleships** – classic game in pure JavaScript](https://www.battleshiips.bibble.com)
