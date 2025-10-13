@@ -9,17 +9,17 @@ I trained in software engineering at [Makers Academy](https://makers.tech/softwa
 
 Seeking more technical and intellectual challenge in my work, and with lifelong interest in computing, design, and maths, I retrained as a full stack web developer graduating Makers Academy’s on campus immersive full-stack software engineering bootcamp in 2014. Although my professional work remained in management, I kept coding throughout, and in 2023 I made the switch to full-time professional software engineering.
 
-### 🧠 Currently Working On
+### 🧠 I'm currently Working On
 
 - An **MCP server** for the insurance industry.
 - Learning **TypeScript** and **GraphQL**.
 
-### 👀 Currently Looking For
+### 👀 I'm currently Looking For
 
 - A **junior web developer** role — apply my skills, grow within a collaborative team, and build real-world products.
 - **Freelance web developer** work — put skills to use and keep building my portfolio.
 
-### 🎮 Take a break with a few fun games I built
+### 🎮 Have fun with a few fun games I built
 - 🕵️‍♂️ [**Where’s Waldo** – a React + Rails API game](https://www.waldo.bibble.com)
 - ♟️ [**Chess** – Chess implemented in pure Ruby, on the cmmd line](https://replit.com/@jbk1/Chess)
 - 🚢 [**Battleships** – classic game in pure JavaScript](https://www.battleshiips.bibble.com)
