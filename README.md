@@ -1,5 +1,10 @@
-
-<img src="./assets/images/ruby.svg" width="15" alt="Ruby logo"/> <img src="./assets/images/rails.svg" width="45" alt="Rails logo"/> <img src="./assets/images/hotwire-light.svg" width="50" alt="Hotwire logo"/> <img src="./assets/images/javascript.svg" width="20" alt="JS logo"/> <img src="./assets/images/react.svg" width="20" alt="React logo"/> <img src="./assets/images/vite.svg" width="18" alt="Vite logo"/> <img src="./assets/images/bash-dark.svg" width="22" alt="Bash logo"/> <img src="./assets/images/docker.svg" width="60" alt="Docker logo"/>&nbsp;&nbsp;<img src="./assets/images/linux.svg" width="16" alt="Linux logo"/>
+### Languages & Frameworks
+![Ruby](https://img.shields.io/badge/-Ruby-000?logo=Ruby&logoColor=CC342D)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)
+![Rails](https://img.shields.io/badge/-Rails-000?logo=Ruby%20on%20Rails&logoColor=CC0000)
+![React](https://img.shields.io/badge/-React-000?logo=React)
+![Hotwire](https://img.shields.io/badge/-Hotwire-000?&logo=Hotwire)
+-
 
 ### Hi I'm James 👋,
 
@@ -7,7 +12,7 @@ A full-stack web developer, focussing on **Ruby**, **Rails**, **JS**, and **Reac
 
 I trained in software engineering at [Makers Academy](https://makers.tech/software-engineering-bootcamp) and have been coding full-time since 2023. This is my second career after a successful 20 years in business and product management.
 
-Seeking more technical and intellectual challenge in my work, and with lifelong interest in computing, design, and maths, I retrained as a full stack web developer graduating Makers Academy’s on campus immersive full-stack software engineering bootcamp in 2014. Although my professional work remained in management, I kept coding throughout, and in 2023 I made the switch to full-time professional software engineering.
+Seeking more technical and intellectual challenge in my work, and with lifelong interest in computing, engineering and design, I retrained as a full stack web developer. I graduated Makers Academy’s on campus full-stack software engineering bootcamp in 2014. Although my professional work remained in management, I kept coding throughout, and in 2023 I made the switch to full-time professional software development.
 
 ### 🧠 I'm currently Working On
 
@@ -16,8 +21,8 @@ Seeking more technical and intellectual challenge in my work, and with lifelong 
 
 ### 👀 I'm currently Looking For
 
-- A **junior web developer** role — apply my skills, grow within a collaborative team, and build real-world products.
-- **Freelance web developer** work — put skills to use and keep building my portfolio.
+- A **web developer** role — apply my skills, grow within a collaborative team, and build real-world products.
+- High quality **freelance web developer** work — put skills to use and keep building my portfolio.
 
 ### 🎮 Have fun with a few fun games I built
 - 🕵️‍♂️ [**Where’s Waldo** – a React + Rails API game](https://www.waldo.bibble.com)
