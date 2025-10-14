@@ -1,9 +1,16 @@
-### Languages & Frameworks
+### Languages, Frameworks, Libraries, Tools
 ![Ruby](https://img.shields.io/badge/-Ruby-000?logo=Ruby&logoColor=CC342D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)
 ![Rails](https://img.shields.io/badge/-Rails-000?logo=Ruby%20on%20Rails&logoColor=CC0000)
 ![React](https://img.shields.io/badge/-React-000?logo=React)
 ![Hotwire](https://img.shields.io/badge/-Hotwire-000?&logo=Hotwire)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS&logoColor=663399)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?logo=TailwindCSS)
+![Bash](https://img.shields.io/badge/-Bash-000?logo=GNUBash)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=Ubuntu)
+![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
 -
 
 ### Hi I'm James 👋,
