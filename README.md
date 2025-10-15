@@ -30,8 +30,3 @@ Seeking more technical and intellectual challenge in my work, and with lifelong 
 
 - A **web developer** role — apply my skills, grow within a collaborative team, and build real-world products.
 - High quality **freelance web developer** work — put skills to use and keep building my portfolio.
-
-### 🎮 Have fun with a few fun games I built
-- 🕵️‍♂️ [**Where’s Waldo** – a React + Rails API game](https://www.waldo.bibble.com)
-- ♟️ [**Chess** – Chess implemented in pure Ruby, on the cmmd line](https://replit.com/@jbk1/Chess)
-- 🚢 [**Battleships** – classic game in pure JavaScript](https://www.battleshiips.bibble.com)
