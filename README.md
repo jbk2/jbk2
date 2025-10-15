@@ -8,8 +8,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS&logoColor=663399)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?logo=TailwindCSS)
 ![Bash](https://img.shields.io/badge/-Bash-000?logo=GNUBash)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=Ubuntu)
 ![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=Ubuntu)
 ![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
 -
 
@@ -17,9 +17,9 @@
 
 A full-stack web developer, focussing on **Ruby**, **Rails**, **JS**, and **React**</sup>.
 
-I trained in software engineering at [Makers Academy](https://makers.tech/software-engineering-bootcamp) and have been coding full-time since 2023. This is my second career after a successful 20 years in business and product management.
+I trained in software engineering at [Makers Academy](https://makers.tech/software-engineering-bootcamp) and have been coding full-time since 2023. This is my second career after 20 years in business and product management.
 
-Seeking more technical and intellectual challenge in my work, and with lifelong interest in computing, engineering and design, I retrained as a full stack web developer. I graduated Makers Academy’s on campus full-stack software engineering bootcamp in 2014. Although my professional work remained in management, I kept coding throughout, and in 2023 I made the switch to full-time professional software development.
+Seeking more technical and intellectual challenge in my work, and with lifelong interest in computing, engineering and design, I retrained as a full stack web developer graduating Makers Academy’s on campus full-stack software engineering bootcamp in 2014. Although my professional work remained in management, I kept coding throughout, and in 2023 I made the switch to full-time professional software development.
 
 ### 🧠 I'm currently Working On
 
