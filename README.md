@@ -19,7 +19,7 @@ A full-stack web developer, focussing on **Ruby**, **Rails**, **JS**, and **Reac
 
 I trained in software engineering at [Makers Academy](https://makers.tech/software-engineering-bootcamp) and have been coding full-time since 2023. This is my second career after 20 years in business and product management.
 
-Seeking more technical and intellectual challenge in my work, and with lifelong interest in computing, engineering and design, I retrained as a full stack web developer graduating Makers Academy’s on campus full-stack software engineering bootcamp in 2014. Although my professional work remained in management, I kept coding throughout, and in 2023 I made the switch to full-time professional software development.
+From writing games in BASIC in the 80’s to web sites in Dreamweaver in the 90’s I’ve had a lifelong interest in computing, engineering and design. Seeking greater technical and intellectual challenge in my work I retrained as a full-stack developer, graduating from Makers Academy’s bootcamp in 2014. I continued to code alongside my business and product management roles until switching to full-time software development at the start of 2023.
 
 ### 🧠 I'm currently Working On
 
