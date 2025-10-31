@@ -1,4 +1,5 @@
 ### Languages, Frameworks, Libraries, Tools
+
 ![Ruby](https://img.shields.io/badge/-Ruby-000?logo=Ruby&logoColor=CC342D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)
 ![Rails](https://img.shields.io/badge/-Rails-000?logo=Ruby%20on%20Rails&logoColor=CC0000)
@@ -12,7 +13,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=Ubuntu)
 ![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
 
-\+ • 𝗥𝗦𝗽𝗲𝗰 • 𝗝𝗲𝘀𝘁 • 𝗩𝗶𝘁𝗲𝘀𝘁 • 𝗩𝗶𝘁𝗲 • 𝗪𝗲𝗯𝗽𝗮𝗰𝗸 • 🏖️ 𝗧𝗮𝗻𝗦𝘁𝗮𝗰𝗸 • 💻 𝗕𝗮𝘀𝗵 • 🗄️ 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟
+&nbsp;\+ • 𝗥𝗦𝗽𝗲𝗰 • 𝗝𝗲𝘀𝘁 • 𝗩𝗶𝘁𝗲𝘀𝘁 • 𝗩𝗶𝘁𝗲 • 𝗪𝗲𝗯𝗽𝗮𝗰𝗸 • 🏖️ 𝗧𝗮𝗻𝗦𝘁𝗮𝗰𝗸 • 💻 𝗕𝗮𝘀𝗵 • 🗄️ 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟
 -
 
 ### Hi I'm James 👋,
