@@ -3,7 +3,7 @@
 🧪 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 ![RSpec](https://img.shields.io/badge/-RSpec-000) ![Jest](https://img.shields.io/badge/-Jest-000?logo=Jest) ![Vitest](https://img.shields.io/badge/-Vitest-000?logo=Vitest)<br>
 📦 𝗕𝘂𝗶𝗹𝗱 𝗧𝗼𝗼𝗹𝘀 ![Vite](https://img.shields.io/badge/-Vite-000?logo=Vite) ![Webpack](https://img.shields.io/badge/-Webpack-000?logo=Webpack)<br>
 🖥️ 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 & 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 ![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=Ubuntu) ![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=PostgreSQL)<br>
--
+--
 
 ### Hi I'm James 👋,
 
