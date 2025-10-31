@@ -1,6 +1,6 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td><strong>💎 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗠𝗮𝗿𝗸𝘂𝗽</strong></td>
+    <td style="width: 220px; vertical-align: top;><strong>💎 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗠𝗮𝗿𝗸𝘂𝗽</strong></td>
     <td>
       <img src="https://img.shields.io/badge/-Ruby-000?logo=Ruby&logoColor=CC342D"/>
       <img src="https://img.shields.io/badge/-JavaScript-000?logo=JavaScript"/>
