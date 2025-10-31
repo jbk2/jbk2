@@ -4,18 +4,18 @@
 𝗕𝘂𝗶𝗹𝗱 𝗧𝗼𝗼𝗹𝘀&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Vite](https://img.shields.io/badge/-Vite-000?logo=Vite)&nbsp;&nbsp;![Webpack](https://img.shields.io/badge/-Webpack-000?logo=Webpack)<br>
 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 & 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀&nbsp;&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux)&nbsp;&nbsp;![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=Ubuntu)&nbsp;&nbsp;![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=PostgreSQL)<br>
 
-Hi I'm James 👋, A full-stack web developer, focussing on **Ruby**, **Rails**, **JS**, and **React**</sup>.
+Hi, I'm James 👋, A full-stack 𝗥𝘂𝗯𝘆, 𝗥𝗮𝗶𝗹𝘀, 𝗝𝗦, and 𝗥𝗲𝗮𝗰𝘁 developer.
 
-I trained in software engineering at [Makers Academy](https://makers.tech/software-engineering-bootcamp) and have been coding full-time since 2023. This is my second career after 20 years in product and business management.
+‣&nbsp;&nbsp;&nbsp;𝗧𝗿𝗮𝗶𝗻𝗲𝗱 𝗮𝘁 𝗠𝗮𝗸𝗲𝗿𝘀 𝗔𝗰𝗮𝗱𝗲𝗺𝘆&nbsp;&nbsp;&nbsp;‣&nbsp;&nbsp;&nbsp;𝗙𝘂𝗹𝗹-𝘁𝗶𝗺𝗲 𝗰𝗼𝗱𝗶𝗻𝗴 𝘀𝗶𝗻𝗰𝗲 𝟮𝟬𝟮𝟯&nbsp;&nbsp;&nbsp;‣&nbsp;&nbsp;&nbsp;𝗘𝘅-𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗮𝗻𝗱 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗺𝗮𝗻𝗮𝗴𝗲𝗿.
 
-From writing games in BASIC in the 80’s, building websites in Dreamweaver in the 90’s, to working with VB & .Net in enterprise in the 00's I’ve had a lifelong interest in computing, engineering and design. Seeking greater technical and intellectual challenge in my work I retrained as a full-stack developer, graduating from Makers Academy’s bootcamp in 2014. I continued to code alongside my business and product management roles until switching to full-time software development at the start of 2023.
+From writing games in BASIC in the 80’s, building websites in Dreamweaver in the 90’s, to working with VB & .Net in enterprise in the 00's I’ve had a lifelong interest in computing, engineering and design. Seeking greater technical and intellectual challenge in my work I retrained as a full-stack developer, graduating from [Makers Academy](https://makers.tech/software-engineering-bootcamp) bootcamp in 2014. I continued to code alongside my business and product management roles until switching to full-time software development at the start of 2023.
 
 ### 🧠 I'm currently Working On
 
-- An **MCP server** for the insurance industry.
-- Learning **TypeScript** and **GraphQL**.
+- An 𝗠𝗖𝗣 𝘀𝗲𝗿𝘃𝗲𝗿 for the insurance industry.
+- Learning 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 and 𝗚𝗿𝗮𝗽𝗵𝗤𝗟.
 
 ### 👀 I'm currently Looking For
 
-- A **web developer** role — apply my skills, grow within a collaborative team, and build real-world products.
-- High quality **freelance web developer** work — put skills to use and keep building my portfolio.
+- A 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗿𝗼𝗹𝗲 role — apply my skills, grow within a collaborative team, and build real-world products.
+- High quality 𝗳𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘄𝗼𝗿𝗸 work — put skills to use and keep building my portfolio.
