@@ -1,26 +1,34 @@
 ### Languages, Frameworks, Libraries, Tools
 
-![Ruby](https://img.shields.io/badge/-Ruby-000?logo=Ruby&logoColor=CC342D)
+💎 Languages & Markup; ![Ruby](https://img.shields.io/badge/-Ruby-000?logo=Ruby&logoColor=CC342D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)
-![Rails](https://img.shields.io/badge/-Rails-000?logo=Ruby%20on%20Rails&logoColor=CC0000)
-![React](https://img.shields.io/badge/-React-000?logo=React)
-![Hotwire](https://img.shields.io/badge/-Hotwire-000?&logo=Hotwire)
+![Bash](https://img.shields.io/badge/-Bash-000?logo=GNUBash)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS&logoColor=663399)
+
+⚙️ Frameworks & Libraries; ![Rails](https://img.shields.io/badge/-Rails-000?logo=Ruby%20on%20Rails&logoColor=CC0000)
+![Hotwire](https://img.shields.io/badge/-Hotwire-000?&logo=Hotwire)
+![React](https://img.shields.io/badge/-React-000?logo=React)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?logo=TailwindCSS)
-![Bash](https://img.shields.io/badge/-Bash-000?logo=GNUBash)
+![ReactQuery](https://img.shields.io/badge/-ReactQuery-000?logo=ReactQuery)
+![ReactRouter](https://img.shields.io/badge/-ReactRouter-000?logo=ReactRouter)
+
+🧪 Testing; 
+![Rspec](https://img.shields.io/badge/-Rspec-000?logo=Rspec)
+![Jest](https://img.shields.io/badge/-Jest-000?logo=Jest)
+![Vitest](https://img.shields.io/badge/-Vitest-000?logo=Vitest)
+
+📦 Build Tools;
+![Vite](https://img.shields.io/badge/-Vite-000?logo=Vite)
+![Webpack](https://img.shields.io/badge/-Webpack-000?logo=Webpack)
+
+🖥️ Infrastructure & DBs; 
 ![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=Ubuntu)
 ![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
-![Rspec](https://img.shields.io/badge/-Rspec-000?logo=Rspec)
-![Jest](https://img.shields.io/badge/-Jest-000?logo=Jest)
-![Vite](https://img.shields.io/badge/-Vite-000?logo=Vite)
-![Vitest](https://img.shields.io/badge/-Vitest-000?logo=Vitest)
-![Webpack](https://img.shields.io/badge/-Webpack-000?logo=Webpack)
-![ReactQuery](https://img.shields.io/badge/-ReactQuery-000?logo=ReactQuery)
-![ReactRouter](https://img.shields.io/badge/-ReactRouter-000?logo=ReactRouter)
-![Bash](https://img.shields.io/badge/-Bash-000?logo=GNUBash)
 ![PostgresQL](https://img.shields.io/badge/-PostgresQL-000?logo=PostgresQL)
+
+
 <p>• 𝗥𝗦𝗽𝗲𝗰 • 𝗝𝗲𝘀𝘁 • 𝗩𝗶𝘁𝗲𝘀𝘁 • 𝗩𝗶𝘁𝗲 • 𝗪𝗲𝗯𝗽𝗮𝗰𝗸 • 𝗧𝗮𝗻𝗦𝘁𝗮𝗰𝗸 • 𝗕𝗮𝘀𝗵 • 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟</p>
 
 ---
