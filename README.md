@@ -12,6 +12,15 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=Ubuntu)
 ![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
+![Rspec](https://img.shields.io/badge/-Docker-000?logo=Rspec)
+![Jest](https://img.shields.io/badge/-Docker-000?logo=Jest)
+![Vite](https://img.shields.io/badge/-Docker-000?logo=Vite)
+![Vitest](https://img.shields.io/badge/-Docker-000?logo=Vitest)
+![Webpack](https://img.shields.io/badge/-Docker-000?logo=Webpack)
+![ReactQuery](https://img.shields.io/badge/-Docker-000?logo=ReactQuery)
+![ReactRouter](https://img.shields.io/badge/-Docker-000?logo=ReactRouter)
+![Bash](https://img.shields.io/badge/-Docker-000?logo=GNUBash)
+![PostgresQL](https://img.shields.io/badge/-Docker-000?logo=PostgresQL)
 <p>• 𝗥𝗦𝗽𝗲𝗰 • 𝗝𝗲𝘀𝘁 • 𝗩𝗶𝘁𝗲𝘀𝘁 • 𝗩𝗶𝘁𝗲 • 𝗪𝗲𝗯𝗽𝗮𝗰𝗸 • 𝗧𝗮𝗻𝗦𝘁𝗮𝗰𝗸 • 𝗕𝗮𝘀𝗵 • 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟</p>
 
 ---
