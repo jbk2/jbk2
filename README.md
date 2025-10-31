@@ -1,44 +1,8 @@
-<dl>
-  <dt><strong>💎 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗠𝗮𝗿𝗸𝘂𝗽</strong></dt>
-  <dd>
-    <img src="https://img.shields.io/badge/-Ruby-000?logo=Ruby&logoColor=CC342D" />
-    <img src="https://img.shields.io/badge/-JavaScript-000?logo=JavaScript" />
-    <img src="https://img.shields.io/badge/-Bash-000?logo=GNUBash" />
-    <img src="https://img.shields.io/badge/-HTML-000?logo=HTML5" />
-    <img src="https://img.shields.io/badge/-CSS-000?logo=CSS3" />
-  </dd>
-
-  <dt><strong>⚙️ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀</strong></dt>
-  <dd>
-    <img src="https://img.shields.io/badge/-Rails-000?logo=Ruby%20on%20Rails&logoColor=CC0000" />
-    <img src="https://img.shields.io/badge/-Hotwire-000" />
-    <img src="https://img.shields.io/badge/-React-000?logo=React" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-000?logo=TailwindCSS" />
-    <img src="https://img.shields.io/badge/-TanStack%20Query-000?logo=ReactQuery" />
-    <img src="https://img.shields.io/badge/-React%20Router-000?logo=ReactRouter" />
-  </dd>
-
-  <dt><strong>🧪 𝗧𝗲𝘀𝘁𝗶𝗻𝗴</strong></dt>
-  <dd>
-    <img src="https://img.shields.io/badge/-RSpec-000" />
-    <img src="https://img.shields.io/badge/-Jest-000?logo=Jest" />
-    <img src="https://img.shields.io/badge/-Vitest-000?logo=Vitest" />
-  </dd>
-
-  <dt><strong>📦 𝗕𝘂𝗶𝗹𝗱 𝗧𝗼𝗼𝗹𝘀</strong></dt>
-  <dd>
-    <img src="https://img.shields.io/badge/-Vite-000?logo=Vite" />
-    <img src="https://img.shields.io/badge/-Webpack-000?logo=Webpack" />
-  </dd>
-
-  <dt><strong>🖥️ 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 & 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀</strong></dt>
-  <dd>
-    <img src="https://img.shields.io/badge/-Linux-000?logo=Linux" />
-    <img src="https://img.shields.io/badge/-Ubuntu-000?logo=Ubuntu" />
-    <img src="https://img.shields.io/badge/-Docker-000?logo=Docker" />
-    <img src="https://img.shields.io/badge/-PostgreSQL-000?logo=PostgreSQL" />
-  </dd>
-</dl>
+**💎 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗠𝗮𝗿𝗸𝘂𝗽** — ![Ruby](https://img.shields.io/badge/-Ruby-000?logo=Ruby&logoColor=CC342D) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript) ![Bash](https://img.shields.io/badge/-Bash-000?logo=GNUBash) ![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)<br>
+**⚙️ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀** — ![Rails](https://img.shields.io/badge/-Rails-000?logo=Ruby%20on%20Rails&logoColor=CC0000) ![Hotwire](https://img.shields.io/badge/-Hotwire-000) ![React](https://img.shields.io/badge/-React-000?logo=React) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?logo=TailwindCSS) ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-000?logo=ReactQuery) ![React Router](https://img.shields.io/badge/-React%20Router-000?logo=ReactRouter)<br>
+**🧪 𝗧𝗲𝘀𝘁𝗶𝗻𝗴** — ![RSpec](https://img.shields.io/badge/-RSpec-000) ![Jest](https://img.shields.io/badge/-Jest-000?logo=Jest) ![Vitest](https://img.shields.io/badge/-Vitest-000?logo=Vitest)<br>
+**📦 𝗕𝘂𝗶𝗹𝗱 𝗧𝗼𝗼𝗹𝘀** — ![Vite](https://img.shields.io/badge/-Vite-000?logo=Vite) ![Webpack](https://img.shields.io/badge/-Webpack-000?logo=Webpack)<br>
+**🖥️ 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 & 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀** — ![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=Ubuntu) ![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=PostgreSQL)
 
 
 ---
