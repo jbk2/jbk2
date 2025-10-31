@@ -11,6 +11,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=Ubuntu)
 ![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
+
 \+ • 𝗥𝗦𝗽𝗲𝗰 • 𝗝𝗲𝘀𝘁 • 𝗩𝗶𝘁𝗲𝘀𝘁 • 𝗩𝗶𝘁𝗲 • 𝗪𝗲𝗯𝗽𝗮𝗰𝗸 • 🏖️ 𝗧𝗮𝗻𝗦𝘁𝗮𝗰𝗸 • 💻 𝗕𝗮𝘀𝗵 • 🗄️ 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟
 -
 
