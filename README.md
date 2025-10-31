@@ -4,7 +4,7 @@
 𝗕𝘂𝗶𝗹𝗱 𝗧𝗼𝗼𝗹𝘀&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Vite](https://img.shields.io/badge/-Vite-000?logo=Vite)&nbsp;&nbsp;![Webpack](https://img.shields.io/badge/-Webpack-000?logo=Webpack)<br>
 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 & 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀&nbsp;&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux)&nbsp;&nbsp;![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=Ubuntu)&nbsp;&nbsp;![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=PostgreSQL)<br>
 
-Hi, I'm James 👋, A full-stack 𝗥𝘂𝗯𝘆, 𝗥𝗮𝗶𝗹𝘀, 𝗝𝗦, and 𝗥𝗲𝗮𝗰𝘁 developer.
+Hi, I'm James 👋, a full-stack 𝗥𝘂𝗯𝘆, 𝗥𝗮𝗶𝗹𝘀, 𝗝𝗦, and 𝗥𝗲𝗮𝗰𝘁 developer.
 
 𝗧𝗿𝗮𝗶𝗻𝗲𝗱 𝗮𝘁 𝗠𝗮𝗸𝗲𝗿𝘀 𝗔𝗰𝗮𝗱𝗲𝗺𝘆&nbsp;&nbsp;&nbsp;‣&nbsp;&nbsp;&nbsp;𝗙𝘂𝗹𝗹-𝘁𝗶𝗺𝗲 𝗰𝗼𝗱𝗶𝗻𝗴 𝘀𝗶𝗻𝗰𝗲 𝟮𝟬𝟮𝟯&nbsp;&nbsp;&nbsp;‣&nbsp;&nbsp;&nbsp;𝗘𝘅-𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗮𝗻𝗱 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗺𝗮𝗻𝗮𝗴𝗲𝗿
 
