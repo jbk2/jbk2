@@ -13,11 +13,14 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
 -
 
+💎 𝗥𝘂𝗯𝘆 • 𝗥𝗮𝗶𝗹𝘀 • 𝗛𝗼𝘁𝘄𝗶𝗿𝗲 • ⚛️ 𝗥𝗲𝗮𝗰𝘁 • 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁
+🗄️ 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟 • 𝗥𝗦𝗽𝗲𝗰 • 𝗝𝗲𝘀𝘁 • 𝗩𝗶𝘁𝗲 • 🏖️ 𝗧𝗮𝗻𝗦𝘁𝗮𝗰𝗸 • 🐳 𝗗𝗼𝗰𝗸𝗲𝗿 • 🐧 𝗨𝗯𝘂𝗻𝘁𝘂/𝗟𝗶𝗻𝘂𝘅 • 💻 𝗕𝗮𝘀𝗵 • 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝗦𝗦
+
 ### Hi I'm James 👋,
 
 A full-stack web developer, focussing on **Ruby**, **Rails**, **JS**, and **React**</sup>.
 
-I trained in software engineering at [Makers Academy](https://makers.tech/software-engineering-bootcamp) and have been coding full-time since 2023. This is my second career after 20 years in business and product management.
+I trained in software engineering at [Makers Academy](https://makers.tech/software-engineering-bootcamp) and have been coding full-time since 2023. This is my second career after 20 years in product and business management.
 
 From writing games in BASIC in the 80’s to websites in Dreamweaver in the 90’s I’ve had a lifelong interest in computing, engineering and design. Seeking greater technical and intellectual challenge in my work I retrained as a full-stack developer, graduating from Makers Academy’s bootcamp in 2014. I continued to code alongside my business and product management roles until switching to full-time software development at the start of 2023.
 
