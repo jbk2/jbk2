@@ -10,12 +10,12 @@ Hi, I'm James 👋, a full-stack 𝗥𝘂𝗯𝘆, 𝗥𝗮𝗶𝗹𝘀, 𝗝�
 
 From writing games in BASIC in the 80’s, building websites in Dreamweaver in the 90’s, to working with VB & .NET in enterprise in the 00's I’ve had a lifelong interest in computing, engineering and design. Seeking greater technical and intellectual challenge in my work I retrained as a full-stack developer, graduating from [Makers Academy](https://makers.tech/software-engineering-bootcamp) bootcamp in 2014. I continued to code alongside my business and product management roles until switching to full-time software development in January 2023.
 
-**🧠 I'm currently Working On**
+**🧠 I'm currently working on** :
 
 - 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 and 𝗚𝗿𝗮𝗽𝗵𝗤𝗟 knowledge.
 - An 𝗠𝗖𝗣 𝘀𝗲𝗿𝘃𝗲𝗿 for insurance broking quotes.
 
-**👀 I'm currently Looking For**
+**👀 I'm currently looking for** :
 
 - A 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗿𝗼𝗹𝗲 role – write quality code all day, grow and learn amongst colleagues, build real-world products.
-- High quality 𝗳𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘄𝗼𝗿𝗸 work – put skills to use, feed the family, help teams and businesses.
+- High quality 𝗳𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘄𝗼𝗿𝗸 – put skills to use, feed the family, help teams and businesses.
