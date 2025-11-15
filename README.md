@@ -6,7 +6,7 @@
 
 Hi, I'm James 👋, a full-stack 𝗥𝘂𝗯𝘆, 𝗥𝗮𝗶𝗹𝘀, 𝗝𝗦, and 𝗥𝗲𝗮𝗰𝘁 developer.
 
-𝗧𝗿𝗮𝗶𝗻𝗲𝗱 𝗮𝘁 𝗠𝗮𝗸𝗲𝗿𝘀 𝗔𝗰𝗮𝗱𝗲𝗺𝘆&nbsp;&nbsp;&nbsp;‣&nbsp;&nbsp;&nbsp;𝗙𝘂𝗹𝗹-𝘁𝗶𝗺𝗲 𝗰𝗼𝗱𝗶𝗻𝗴 𝘀𝗶𝗻𝗰𝗲 𝟮𝟬𝟮𝟯&nbsp;&nbsp;&nbsp;‣&nbsp;&nbsp;&nbsp;𝗘𝘅-𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗮𝗻𝗱 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗺𝗮𝗻𝗮𝗴𝗲𝗿
+𝗧𝗿𝗮𝗶𝗻𝗲𝗱 𝗮𝘁 𝗠𝗮𝗸𝗲𝗿𝘀 𝗔𝗰𝗮𝗱𝗲𝗺𝘆&nbsp;&nbsp;&nbsp;‣&nbsp;&nbsp;&nbsp;𝗙𝘂𝗹𝗹-𝘁𝗶𝗺𝗲 𝗰𝗼𝗱𝗶𝗻𝗴 𝘀𝗶𝗻𝗰𝗲 𝗝𝗮𝗻. ’𝟮𝟯&nbsp;&nbsp;&nbsp;‣&nbsp;&nbsp;&nbsp;𝗘𝘅-𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗮𝗻𝗱 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗺𝗮𝗻𝗮𝗴𝗲𝗿
 
 From writing games in BASIC in the 80’s, building websites in Dreamweaver in the 90’s, to working with VB & .NET in enterprise in the 00's I’ve had a lifelong interest in computing, engineering and design. Seeking greater technical and intellectual challenge in my work I retrained as a full-stack developer, graduating from [Makers Academy](https://makers.tech/software-engineering-bootcamp) bootcamp in 2014. I continued to code alongside my business and product management roles until switching to full-time software development in January 2023.
 
