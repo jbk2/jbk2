@@ -17,5 +17,5 @@ From writing games in BASIC in the 80’s, building websites in Dreamweaver in t
 
 **👀 I'm currently looking for** :
 
-- A 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗿𝗼𝗹𝗲 role – write quality code all day, grow and learn amongst colleagues, build real-world products.
+- A 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗿𝗼𝗹𝗲 role – write quality code all day, learn and grow amongst colleagues, build real-world products.
 - High quality 𝗳𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘄𝗼𝗿𝗸 – put skills to use, feed the family, help teams and businesses.
