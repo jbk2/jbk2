@@ -19,8 +19,3 @@ I trained at Makers Academy in 2014 and have been hands-on with commercial web s
 * Legacy 𝗥𝗮𝗶𝗹𝘀 app revival, refactoring and documentation.
 * Practical 𝗔𝗜 / 𝗠𝗖𝗣 tooling for insurance-broking workflows.
 
-**👀 I'm currently looking for**:
-
-* A 𝗥𝘂𝗯𝘆/𝗥𝗮𝗶𝗹𝘀, backend or full-stack developer role — writing high-quality code, learning from experienced teams and building real-world products.
-* High-quality 𝗳𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲 web development work — helping teams and businesses with Rails, React, product features, integrations and technical problem-solving.
-
